@@ -33,9 +33,10 @@ img {
 
 p {
   text-align: center;
-  padding: 2rem 3rem;
+  vertical-align: bottom;
+  padding: 1.5rem 2.5rem;
   background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
-  margin: 0 0 2rem 0;
+  margin: 3rem 3rem 2rem 3rem;
   font-size: 1rem;
   color: white;
 }
